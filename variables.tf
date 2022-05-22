@@ -10,6 +10,6 @@ variable "instance_type" {
 
 /* variable "instance_type" {} */
  variable "tag" {
-default="Hello-Module"
+   default="Hello-Module"
 } 
 /* variable "tag" {}  */
